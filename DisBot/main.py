@@ -111,4 +111,4 @@ async def load(ctx, *, template_name: str):
     await ctx.send(f'Template "{template_name}" was loaded.')
 
 # Запуск бота
-bot.run('MTMwMDg0MjAyMzA0OTM2MzUwNg.Gj8hJl.3eNH31sj0Kf7-V4qP0R8rcF9n9uELcrjqnYgl0')
+bot.run('YOUR_TOKEN')
